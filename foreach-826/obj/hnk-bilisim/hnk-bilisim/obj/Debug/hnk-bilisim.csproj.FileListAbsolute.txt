@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\hnk-bilisim\hnk-bilisim\bin\Debug\hnk-bilisim.exe.config
+C:\Users\User\source\repos\hnk-bilisim\hnk-bilisim\bin\Debug\hnk-bilisim.exe
+C:\Users\User\source\repos\hnk-bilisim\hnk-bilisim\bin\Debug\hnk-bilisim.pdb
+C:\Users\User\source\repos\hnk-bilisim\hnk-bilisim\obj\Debug\hnk-bilisim.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\hnk-bilisim\hnk-bilisim\obj\Debug\hnk-bilisim.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\hnk-bilisim\hnk-bilisim\obj\Debug\hnk_bilisim.Form1.resources
+C:\Users\User\source\repos\hnk-bilisim\hnk-bilisim\obj\Debug\hnk_bilisim.Properties.Resources.resources
+C:\Users\User\source\repos\hnk-bilisim\hnk-bilisim\obj\Debug\hnk-bilisim.csproj.GenerateResource.cache
+C:\Users\User\source\repos\hnk-bilisim\hnk-bilisim\obj\Debug\hnk-bilisim.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\hnk-bilisim\hnk-bilisim\obj\Debug\hnk-bilisim.exe
+C:\Users\User\source\repos\hnk-bilisim\hnk-bilisim\obj\Debug\hnk-bilisim.pdb
